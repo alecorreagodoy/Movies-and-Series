@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    background-color: black;
+}
+.title{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    font-size: 30px;;
+}
+h1 span{
+    color: red;
+}
